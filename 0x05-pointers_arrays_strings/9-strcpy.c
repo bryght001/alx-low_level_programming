@@ -12,7 +12,7 @@ int x = 0;
 
 while (*(src + l) != '\0')
 {
-		l++;
+l++;
 	}
 	for ( ; x < l ; x++)
 	{
