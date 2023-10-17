@@ -16,4 +16,3 @@ while (*s != '\0')
 
 return (longi);
 }
-
