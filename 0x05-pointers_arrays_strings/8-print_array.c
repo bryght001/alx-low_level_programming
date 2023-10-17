@@ -19,3 +19,4 @@ printf("%d", a[n - 1]);
 }
 printf("\n");
 }
+
