@@ -13,8 +13,8 @@ int x = 0;
 while (*(src + l) != '\0')
 {
 l++;
-	}
-	for ( ; x < l ; x++)
+}
+for ( ; x < l ; x++)
 	{
 		dest[x] = src[x];
 	}
