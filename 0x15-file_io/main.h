@@ -1,4 +1,4 @@
-#ifndef _MAIM_H
+#ifndef _MAIN_H
 #define _MAIN_H
 
 #include <sys/types.h>
